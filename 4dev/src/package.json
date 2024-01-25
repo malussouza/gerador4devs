@@ -1,0 +1,24 @@
+{
+  "name": "dev-tools",
+  "version": "1.0.0",
+  "description": "Api simples com as ferramentas disponibilizadas pelo 4devs.com.br",
+  "main": "server.js",
+  "scripts": {
+    "start": "sh run.sh",
+    "dev": "nodemon server.js",
+    "prod": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DeividF",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.16.4",
+    "express-group-routes": "^1.1.0",
+    "server.js": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.14"
+  }
+}
