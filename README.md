@@ -35,10 +35,10 @@ Este repositório contém uma API simples para gerar dados fictícios utilizando
 
 ## Pre Requisitos
 Ter instalado: 
-Docker
-Postman
-Node Js
-nodemon
+- [x] Docker
+- [x] Postman
+- [x] Node Js
+- [x] nodemon
 
 ## Intalação
 
